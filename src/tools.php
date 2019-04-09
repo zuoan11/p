@@ -1,5 +1,5 @@
 <?php
-
+namespace zuoan11/p;
 /**
  * 格式化打印数据
  * @Author   左岸
